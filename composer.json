@@ -1,5 +1,5 @@
 {
-	"name" : "zohocrm/php-sdk-archive",
+	"name" : "x-Host/php-sdk-archive",
 	"description" : "Zoho CRM API SDK for PHP",
 	"type" : "SDK",
 	"homepage" : "https://github.com/zoho/zcrm-php-sdk",
@@ -8,6 +8,10 @@
 			"email" : "support@zohocrm.com",
 			"homepage" : "https://www.zoho.com/crm/help/customer-support.html",
 			"role" : "Developer"
+		},
+		{
+	    		"name": "X Host UK",
+	    		"email": "support@xhost.uk"
 		}
 	],
 	"require" : {
