@@ -52,6 +52,7 @@ class ZohoOAuth
             ZohoOAuthConstants::IAM_URL,
             ZohoOAuthConstants::TOKEN_PERSISTENCE_PATH,
             ZohoOAuthConstants::DATABASE_PORT,
+            ZohoOAuthConstants::DATABASE_NAME,
             ZohoOAuthConstants::DATABASE_PASSWORD,
             ZohoOAuthConstants::DATABASE_USERNAME,
             ZohoOAuthConstants::PERSISTENCE_HANDLER_CLASS_NAME,
